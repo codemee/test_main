@@ -1,0 +1,3 @@
+[submodule "test_sub1"]
+	path = test_sub1
+	url = https://github.com/codemee/test_sub1.git
